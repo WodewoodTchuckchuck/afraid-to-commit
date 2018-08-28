@@ -363,4 +363,4 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
-* Wodewood #Tchuck#chuck!
+* Wodewood #Tchuck#chuck! - https://github.com/WodewoodTchuckchuck - 2018-08-28
